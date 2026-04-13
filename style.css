@@ -1,0 +1,44 @@
+body {
+    font-family: Arial;
+    background-image: url("images/background.jpg");
+    background-size: cover;
+    color: white;
+}
+
+header {
+    background: rgba(0,0,0,0.7);
+    padding: 10px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    margin: 10px;
+}
+
+nav a {
+    color: lightblue;
+    text-decoration: none;
+}
+
+section {
+    background: rgba(0,0,0,0.6);
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+img {
+    width: 200px;
+    margin: 10px;
+}
+
+table, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+    padding: 5px;
+}
