@@ -3,9 +3,9 @@ body {
 }
 
  {
-    0% { text-shadow: 0 0 10px lightblue; }
-    50% { text-shadow: 0 0 25px white; }
-    100% { text-shadow: 0 0 10px lbody {
+    0% { text-shadow: 0 0 10px blue; }
+    50% { text-shadow: 0 0 100px white; }
+    100% { text-shadow: 0 0 100px lbody {
     background-image:https://bizlaw.md/uploads/article/16314/6019b075d308c.jpg ;
     background-size: cover;       /* acoperă tot ecranul */
     background-repeat: no-repeat; /* nu se repetă */
@@ -23,7 +23,7 @@ header {
 }
 
 nav ul {
-    list-style: none;
+    list-style: arial;
 }
 
 nav ul li {
@@ -32,8 +32,8 @@ nav ul li {
 }
 
 nav a {
-    color: lightblue;
-    text-decoration: none;
+    color: black;
+    text-decoration: arial;
 }
 
 section {
