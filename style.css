@@ -1,17 +1,17 @@
 body {
-    font-family: Arial;
-    background-image: url("images/background.jpg");
-    background-size: cover;
-    color: white;.glow {
-    color: white;
-    text-shadow: 0 0 10px lightblue, 0 0 20px lightblue;
-    animation: pulse 2s infinite;
+
 }
 
 @keyframes pulse {
     0% { text-shadow: 0 0 10px lightblue; }
     50% { text-shadow: 0 0 25px white; }
-    100% { text-shadow: 0 0 10px lightblue; }
+    100% { text-shadow: 0 0 10px lbody {
+    background-image:https://bizlaw.md/uploads/article/16314/6019b075d308c.jpg ;
+    background-size: cover;       /* acoperă tot ecranul */
+    background-repeat: no-repeat; /* nu se repetă */
+    background-position: center;  /* centrat */
+    background-attachment: fixed; /* rămâne fix când dai scroll */
+}ightblue; }
 }
     
 }
